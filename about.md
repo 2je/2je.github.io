@@ -8,19 +8,19 @@ description: resume.
 ### Work
 
 
--- Product Manager, kakao corp --
+Product Manager, kakao corp
 - 
 - 
 -
 -
 
 
-** Assistant Manager, DHT **
+Assistant Manager, DHI
 - Business Development Manager
 - Structural Engineer
 
 
-** Intern, Prada Korea **
+Intern, Prada Korea
 -
 
 
@@ -30,28 +30,29 @@ description: resume.
 * Bachelor
 * Exchange Strudent
 
+-----------------------------
 
 ### Personal Projects 
 
-[Kamiyama]()
+ ✔[Kamiyama]()
 
 
-Leader in book reading groups
+ ✔Leader in book reading groups
 
 
-October Sky
+ ✔October Sky
 
 
-Craft and collection
+ ✔Craft and collection
 * knit, ceramics, furniture
 * books (900+), dog goods 
 
 
-Writings
+ ✔Writings
 * published: [밤에 일하는 사람들]()
 * blog [tumblr]()
 
-** Travel **
+### Travel
 - Tokyo
 - Kamiyama, Kyoto
 - Chiangmai

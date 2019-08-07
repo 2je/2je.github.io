@@ -17,6 +17,7 @@ description: resume.
 
 ### Personal Projects
 
+
 Craft
 * knit (1991~)
 * ceramics (2019~)
@@ -31,8 +32,8 @@ Writings
 * blog [tumblr]()
 
 -----------------------------
+Travel
 
-### Travel
 
 [map]()
 > * Tokyo
@@ -49,18 +50,18 @@ Writings
 -----------------------------
 /formal
 
-### Work
+Work
 * Product Manager, kakao corp (2014~)
 * Assistant Manager, DHI (2009~2014)
 * Intern, Prada Korea (2008)
 
-### Education
+Education
 * have degrees in architecture and urban planning from universities in Seoul,South Korea
 * learn practical English and experienced college student life in nothern California
 * learn German in Geothe institute in Seoul
 * continuously repeate to learn and forgent Japanese, Spanish and python, HTML, CSS, Arc GIS
 
-### Skills
+Skills
 * Korean (+++) , English (++), German (+)
 * SQL, Adobe Illustrator, Photoshop, Sketchup, AutoCAD, MS Office
 * very good at communication based on data analysis, visualization, and writing

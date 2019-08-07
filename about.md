@@ -8,7 +8,7 @@ description: resume.
 ### Work
 
 
-** Product Manager, kakao corp **
+-- Product Manager, kakao corp --
 - 
 - 
 -
@@ -34,16 +34,22 @@ description: resume.
 ### Personal Projects 
 
 [Kamiyama]()
+
+
 Leader in book reading groups
+
+
 October Sky
+
+
 Craft and collection
 * knit, ceramics, furniture
 * books (900+), dog goods 
 
 
 Writings
-* published: [밤에 일하는 사람들]
-* blog [tumblr]
+* published: [밤에 일하는 사람들]()
+* blog [tumblr]()
 
 ** Travel **
 - Tokyo

@@ -42,4 +42,3 @@ reverse: false
 collections:
   animals:
     output: true
-      permalink: /my-animal/:name

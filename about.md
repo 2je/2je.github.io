@@ -10,47 +10,52 @@ description: resume.
 ## Work
 
 
-* Product Manager, kakao corp
+#### Product Manager, kakao corp
 - 
 - 
 -
 -
 
 
-* Assistant Manager, DHT
+####  Assistant Manager, DHT
 - Business Development Manager
 - Structural Engineer
 
 
-* Intern, Prada Korea
+####  Intern, Prada Korea
 -
 
 
-## Education
+#### Education
 
 Master in Urban and Regional Planning, S
+
 Bachelor in Architecture, Y
+
 Exchange Strudent, Design, UCD
 
 
-## Personal Projects 
+#### Personal Projects 
 
 * [Kamiyama]()
 * Leader in book reading groups
 * October Sky
-
 * Craft and collection
-- knit, ceramics, furniture
-- books (900+), dog goods 
+knit, ceramics, furniture
+
+books (900+), dog goods 
+
 
 * Writings
-- published
+published
+
 [밤에 일하는 사람들]
 
-- blog
+
+blog
 
 
-* Travel
+#### Travel
 - Tokyo
 - Kamiyama, Kyoto
 - Chiangmai

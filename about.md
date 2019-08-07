@@ -23,7 +23,7 @@ Craft
 * furniture (2014)
 
 Collections
-* books (900+)
+* Paper books (approximately 1,000+)
 * dog goods (2014~) 
 
 Writings
@@ -54,10 +54,13 @@ Writings
 * Assistant Manager, DHI (2009~2014)
 * Intern, Prada Korea (2008)
 
-
 ### Education
-* Master
-* Bachelor
-* Exchange Strudent
+have degrees in architecture and urban planning from universities in Seoul,South Korea
+learn practical English experienced college student life in nothern California
+learn German in Geothe institute in Seoul
+continuously repeate to learn and forgent Japanese, Spanish and python, HTML, CSS, Arc GIS
 
-
+### Skills
+Korean (+++) , English (++), German (+)
+SQL, Adobe Illustrator, Photoshop, Sketchup, AutoCAD, MS Office
+very good at communication based on data analysis, visualization, and writing

@@ -7,16 +7,15 @@ description: resume.
 
 /in_formal
 
-### Activities
+Personal Reasearch and Writings
+* published: [밤에 일하는 사람들 (2017)]()
+* blog [tumblr]()
 
+Activities
 * [Kamiyama (2018)]()
 * Leader in book reading groups (2017)
 * October Sky (2010-11)
 * Viola Player in School Orchestra (2011), ensemble (2014-5)
-
-
-### Personal Projects
-
 
 Craft
 * knit (1991~)
@@ -27,9 +26,7 @@ Collections
 * Paper books (approximately 1,000+)
 * dog goods (2014~) 
 
-Writings
-* published: [밤에 일하는 사람들 (2017)]()
-* blog [tumblr]()
+
 
 -----------------------------
 Travel

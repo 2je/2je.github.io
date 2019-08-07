@@ -35,8 +35,8 @@ Writings
 ### Travel
 
 [map]()
-- Tokyo
-- Kamiyama, Kyoto
+> Tokyo
+> Kamiyama, Kyoto
 - Chiangmai
 - Shanghai
 - Alps and Swiss

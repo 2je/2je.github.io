@@ -8,20 +8,23 @@ description: resume.
 /in_formal
 
 Personal Reasearch and Writings
-* [라이프스타일 변화와 Kamiyama 방문기(2018)]()
-* [알프스 트레킹 후기 (2017)]()
-* [밤의 도시 (2017)]()
+* [Lifestyle transition and Kamiyama (2018)]()
+* [Trekking Alps (2017)]()
+* [밤의도시 (2017)]()
 * blog [tumblr](https://placenesss.tumblr.com/)
+
 
 Activities
 * Leader, Book reading groups : about Cities and Architecture (2017)
 * Volunteer, October Sky (2010-11)
 * Viola Player in School Orchestra (2011), ensemble (2014-5)
 
+
 Craft
 * knit (1991~)
 * ceramics (2019~)
 * furniture (2014)
+
 
 Collections
 * Paper books (approximately 1,000+)
@@ -34,15 +37,18 @@ Travel
 
 
 [map]()
+> * Hamburg, Innsburck, Copenhagen (upcoming)
+> * Taipei (upcoming)
 > * Tokyo
-> * Kamiyama, Kyoto
+> * Kamiyama
 - Chiangmai
 - Shanghai
-- Alps and Swiss
+- Schweitz
 - Berlin
 - Provence,France
+- New York City
 - Netherlands and German Cities, London
-- Paris
+- Paris, Berlin, Wein, Salzburg, Prague
 - California
 
 -----------------------------

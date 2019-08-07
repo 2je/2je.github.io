@@ -7,20 +7,22 @@ description: resume.
 
 ### Work
 
+Product Manager, kakao corp (2014~)
 
-Product Manager, kakao corp
 - 
 - 
 -
 -
 
 
-Assistant Manager, DHI
+Assistant Manager, DHI (2009~2014)
+
 - Business Development Manager
 - Structural Engineer
 
 
-Intern, Prada Korea
+Intern, Prada Korea (2008)
+
 -
 
 
@@ -34,23 +36,25 @@ Intern, Prada Korea
 
 ### Personal Projects 
 
- ✔[Kamiyama]()
+ ✔[Kamiyama (2018)]()
 
 
- ✔Leader in book reading groups
+ ✔Leader in book reading groups (2017)
 
 
- ✔October Sky
+ ✔October Sky (2010-11)
 
 
  ✔Craft and collection
-* knit, ceramics, furniture
-* books (900+), dog goods 
+* knit (1991~), ceramics (2019~), furniture (2014)
+* books (900+), dog goods (2014~) 
 
 
  ✔Writings
-* published: [밤에 일하는 사람들]()
+* published: [밤에 일하는 사람들 (2017)]()
 * blog [tumblr]()
+
+-----------------------------
 
 ### Travel
 - Tokyo

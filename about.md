@@ -56,7 +56,7 @@ Writings
 
 ### Education
 * have degrees in architecture and urban planning from universities in Seoul,South Korea
-* learn practical English experienced college student life in nothern California
+* learn practical English and experienced college student life in nothern California
 * learn German in Geothe institute in Seoul
 * continuously repeate to learn and forgent Japanese, Spanish and python, HTML, CSS, Arc GIS
 

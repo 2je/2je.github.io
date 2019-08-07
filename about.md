@@ -53,7 +53,7 @@ Work
 * Intern, Prada Korea (2008)
 
 Education
-* have degrees in architecture and urban planning from universities in Seoul,South Korea
+* have degrees in architecture and urban planning from universities in South Korea
 * learn practical English and experienced college student life in nothern California
 * learn German in Geothe institute in Seoul
 * continuously repeate to learn and forgent Japanese, Spanish and python, HTML, CSS, Arc GIS

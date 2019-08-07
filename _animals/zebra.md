@@ -2,7 +2,7 @@
 layout: posts
 title: zebra title
 headline: zebra headline
-collection: animal
+collection: animals
 ---
 
 animal zebra

@@ -55,11 +55,11 @@ Work
 
 Education
 * have degrees in architecture and urban planning from universities in South Korea
-* learn practical English and experienced college student life in nothern California
-* learn German in Geothe institute in Seoul
-* continuously repeate to learn and forgent Japanese, Spanish and python, HTML, CSS, Arc GIS
+* learned practical English and experienced college student life in northern California
+* learned German in Geothe institute in Seoul
+* continuously have repeated to learn and forget Japanese, Spanish and python, HTML, CSS, ArcGIS
 
 Skills
 * Korean (+++) , English (++), German (+)
-* SQL, Adobe Illustrator, Photoshop, Sketchup, AutoCAD, MS Office
+* SQL, Adobe Illustrator, Photoshop, Sketchup, AutoCAD, all presentation, spreadsheets, word processor tools provided in iOS/MS/Google
 * very good at communication based on data analysis, visualization, and writing

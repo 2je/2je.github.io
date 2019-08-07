@@ -8,13 +8,14 @@ description: resume.
 /in_formal
 
 Personal Reasearch and Writings
-* published: [밤에 일하는 사람들 (2017)]()
-* blog [tumblr]()
+* [라이프스타일 변화와 Kamiyama 방문기(2018)]()
+* [알프스 트레킹 후기 (2017)]()
+* [밤의 도시 (2017)]()
+* blog [tumblr](https://placenesss.tumblr.com/)
 
 Activities
-* [Kamiyama (2018)]()
-* Leader in book reading groups (2017)
-* October Sky (2010-11)
+* Leader, Book reading groups : about Cities and Architecture (2017)
+* Volunteer, October Sky (2010-11)
 * Viola Player in School Orchestra (2011), ensemble (2014-5)
 
 Craft

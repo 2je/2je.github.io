@@ -8,7 +8,7 @@ description: resume.
 /in_formal
 
 Personal Reasearch and Writings
-* pro owner and tenant (upcoming)
+* pro owner, pro tenant (upcoming)
 * [Lifestyle transition and Kamiyama (2018)]()
 * [Trekking Alps (2017)]()
 * [밤의도시 (2017)]()
@@ -20,24 +20,22 @@ Activities
 * Volunteer, October Sky (2010-11)
 * Viola Player in School Orchestra (2011), ensemble (2014-5)
 
-Web
-* Startup Maps in Seoul (2012)
 
 Craft
 * knit (1991~)
 * ceramics (2019~)
 * furniture (2014)
+* Startup Maps in Seoul (2012)
 
 
 Collections
-* Paper books (approximately 1,000+)
+* books (approximately 1,000+)
 * dog goods (2014~) 
-
+* plants
 
 
 -----------------------------
 Travel
-
 
 [map]()
 > * Hamburg, Innsburck, Copenhagen (upcoming)

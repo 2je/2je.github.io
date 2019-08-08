@@ -55,6 +55,11 @@ Travel
 - California
 
 
+
+-----------------------------
+/formal
+
+
 Skills
 * Korean (+++) , English (++), German (+)
 * SQL, Adobe Illustrator, Photoshop, Sketchup, AutoCAD, all presentation, spreadsheets, word processor tools provided in iOS/MS/Google
@@ -68,10 +73,6 @@ Education
 * learned German in Geothe institute in Seoul
 * continuously have repeated to forget but strive to learn Japanese, Spanish and python, HTML, CSS, ArcGIS
 
-
-
------------------------------
-/formal
 
 Work
 * Product Manager, kakao corp (Current)

@@ -7,7 +7,7 @@ description: resume.
 
 /in_formal
 
-Reasearch and Writings
+[Reasearch and Writings](/category-writings)
 * pro owner, pro tenant (upcoming)
 * [Lifestyle transition and Kamiyama (2018)]()
 * [Trekking Alps (2017)]()

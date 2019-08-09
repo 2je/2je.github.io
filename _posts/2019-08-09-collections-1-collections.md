@@ -1,8 +1,8 @@
 ---
+layout: page
 title: Collections
 description: collections > Collections
 header: Collections
-layout: page
 ---
 
 #### collect goods for many reasons

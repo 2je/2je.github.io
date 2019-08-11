@@ -1,7 +1,7 @@
 ---
 title: 2019-08-11-activity-readinggroups.md
 description: 2019-08-11-activity-readinggroups.md
-header:  독서모임 기획, 운영 (2017)
+header:  activity / 독서모임 기획, 운영 | book reading groups
 ---
 
 2017년 1년 동안 도시, 건축을 주제로 독서모임의 콘텐츠를 기획하고 운영했다.

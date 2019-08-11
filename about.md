@@ -48,12 +48,8 @@ Startup Maps in Seoul (2012)
 
 
 ### [Craft >](/category-craft.md)
-* knit (1991~)
-* ceramics (2019~)
-* furniture (2014)
+knit, furniture, ceramics (recent)
 
 
 ### [Collections >](/category-collections.md)
-* books (approximately 1,000+)
-* dog goods (2014~) 
-* plants
+books, dog goods & pics (2014~), plants

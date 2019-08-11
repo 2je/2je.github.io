@@ -1,7 +1,7 @@
 ---
 title: 2019-08-11-kamiyama.md
 description: 2019-08-11-kamiyama.md
-header: project / 라이프스타일 변화와 카미야마
+header: project / Lifestyle and Kamiyama
 ---
 2018년 10월 초에 일본 카미야마와 나오시마섬에 여럿이 함께 다녀왔고, 그 기록을 남겼다.
 

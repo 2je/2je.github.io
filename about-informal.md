@@ -13,13 +13,13 @@ description: resume.
 ### project / 
 
 
-여자 둘이 (다른집에) 함께 살아보았습니다 [2 other homes](project-2otherhomes)(upcoming)
+남의 집에 살아보기 [2 other homes](project-2otherhomes)(upcoming)
 
 
-프로 집주인, 프로세입자 [pro owner, pro tenant](project-pros)(upcoming)
+프로집주인, 프로세입자 [pro owner, pro tenant](project-pros)(upcoming)
 
 
-라이프스타일 변화와 카미야마 [lifestyle transition and Kamiyama (2018)](/project-kamiyama)
+라이프스타일과 카미야마 [Lifestyle and Kamiyama (2018)](/project-kamiyama)
 
 
 [Startup Maps in Seoul (2012)](/project-thesis)

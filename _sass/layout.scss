@@ -170,7 +170,18 @@
 #posts {
   li {
     list-style-type: none;
+	  /* 리스트에서 링크값 추가*/
+	a {
+		color: $text-color;
+		text-decoration: none; 
+		font-weight: none; 
+		&:hover,
+		&:focus {
+			color: darken($text-color, 5%);
+		}
+	}
   }
+	
 }
 
 #post-page {

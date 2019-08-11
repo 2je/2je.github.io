@@ -1,7 +1,7 @@
 ---
 title: 2019-06-travel-tokyo.md
 description: 2019-06-travel-tokyo.md
-header: Travel/ Tokyo
+header: travel/ Tokyo
 ---
 
 2019년 6월 초에 일본 도쿄에 처음 다녀왔다. 나흘 중에 삼일 동안 비가 많이 왔지만, 굴하지 않고 걸어다녔다. 
@@ -31,7 +31,7 @@ _
 
 related contents
 * Woman in Gold [f]()
-* 박훈 <메이지 유신은 어떻게 가능했는가> 민음사: 서울 (2014) [b](https://ridibooks.com/v2/Detail?id=509000640&_s=search&_q=%EB%A9%94%EC%9D%B4%EC%A7%80%EC%9C%A0%EC%8B%A0)
+* 박훈 『메이지 유신은 어떻게 가능했는가』 서울: 민음사, 2014 [b](https://ridibooks.com/v2/Detail?id=509000640&_s=search&_q=%EB%A9%94%EC%9D%B4%EC%A7%80%EC%9C%A0%EC%8B%A0)
 
 
 

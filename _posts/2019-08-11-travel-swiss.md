@@ -1,10 +1,14 @@
 ---
-title: 2019-08-11-trekking-alps.md
-description: 2019-08-11-trekking-alps.md
-header: 스위스 여행기/ 알프스 트레킹
+title: 2019-08-11-travel-swiss.md
+description: 2019-08-11-travel-swiss.md
+header: travel/ Alps + Swiss
 ---
 
 2017년 8월에 스위스에 다녀왔다. 절반은 알프스 트레킹을, 나머지 반은 도시를 여행했고, 여행기로 적었다.
+
+
+[https://www.instagram.com/reise_nach/](https://www.instagram.com/reise_nach/)
+
 
 
 원래 산에 큰 관심이 없었지만, 대자연을 보고 싶다는 생각을 하게 된 시기여서 아이슬란드 여행을 알아보다가 운전을 하지 못하면 여행이 어렵다는 소식을 듣고 좌절하던 중 히말라야 등반 경험이 있을정도로 산을 잘 타는 친구가 트레킹을 간다길래 선뜻 따라 나서게 되었다. 급하게 40리터짜리 도이터 배낭을 가득채워 스위스로 떠났다. 
@@ -19,6 +23,5 @@ header: 스위스 여행기/ 알프스 트레킹
 이마와 무릎, 그리고 안경이 깨졌지만 도시를 마음껏 걷고, 공연을 보고, 에어비앤비 호스트들과 친분을 다지는데는 큰 문제가 없었다. 내 모습이 불편한건 나 뿐이었다. 
 
 
-[https://www.instagram.com/reise_nach/](https://www.instagram.com/reise_nach/)
 
 

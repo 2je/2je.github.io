@@ -1,16 +1,16 @@
 ---
 layout: page
-title: travel_collection title
-description: travel_collection title_description
+title: maps
+description: maps
+header : maps
 ---
 
 ### Travel
 
-[map]()
-> * Hamburg, Innsburck, Copenhagen (upcoming)
-> * Taipei (upcoming)
-> * Tokyo
-> * Kamiyama
+* Hamburg, Innsburck, Copenhagen (upcoming)
+* Taipei (upcoming)
+* Tokyo
+* Kamiyama
 - Chiangmai
 - Shanghai
 - Schweitz

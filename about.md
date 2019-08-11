@@ -6,7 +6,10 @@ description: resume.
 
 
 /in_formal
+
+
 [blog](https://placenesss.tumblr.com/) |  [map]()
+
 
 Reasearch and Writings
 * 여자 둘이 (다른집에) 함께 살아보았습니다 (upcoming)

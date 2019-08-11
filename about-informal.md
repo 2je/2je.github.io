@@ -26,7 +26,7 @@ Project / 라이프스타일 변화와 카미야마 [lifestyle transition and Ka
 Travel / [Chiangmai (2018)](/travel-chiangmai)
 
 
-Travel / [Shanghai (2018)](/travel-shaghai)
+Travel / [Shanghai (2018)](/travel-shanghai)
 
 
 Travel / [Trekking Alps and Swiss(2017)](/trekking-alps)

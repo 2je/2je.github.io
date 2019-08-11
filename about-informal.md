@@ -5,8 +5,9 @@ description: about
 header : about
 ---
 
-밥별이와 무관하게 좋아서 하는 일에 대한 기록입니다.
+좋아서 하는 일에 대한 기록입니다.
 
+* 밥먹고 살기 위해 하는 일에 대해서는 [여기](/about-formal)를 참고
 
 
 
@@ -82,7 +83,7 @@ header : about
 
 
 
-### 긴글 /
+### 글 /
 
 
 [blog >>](https://placenesss.tumblr.com/)

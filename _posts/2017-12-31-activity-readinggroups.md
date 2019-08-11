@@ -1,6 +1,6 @@
 ---
-title: 2019-08-11-activity-readinggroups.md
-description: 2019-08-11-activity-readinggroups.md
+title: 2017-12-31-activity-readinggroups.md
+description: 2017-12-31-activity-readinggroups.md
 header:  activity / 독서모임 기획, 운영 | book reading groups
 ---
 

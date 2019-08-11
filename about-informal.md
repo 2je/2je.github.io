@@ -5,6 +5,11 @@ description: resume.
 ---
 
 
+Travel / 대만 (upcoming)
+
+
+Project / 독일어권에서의 제2안식 (upcoming)
+
 
 Project / 여자 둘이 (다른집에) 함께 살아보았습니다  2 other homes(upcoming)
 
@@ -15,7 +20,7 @@ Project / 프로 집주인, 프로세입자 pro owner, pro tenant (upcoming)
 Travel / [Tokyo (2019)](/travel-tokyo)
 
 
-Project / 라이프스타일 변화와 카미야마 [ifestyle transition and Kamiyama (2018)](/project-kamiyama)
+Project / 라이프스타일 변화와 카미야마 [lifestyle transition and Kamiyama (2018)](/project-kamiyama)
 
 
 Travel / [Chiangmai (2018)](/travel-chiangmai)

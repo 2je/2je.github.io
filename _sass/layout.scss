@@ -130,13 +130,14 @@
 
 #container {
 	margin:0 auto;
-	/* h2추가 */
+
+/* h2추가 */
 	h2 {
 	    font-size: 1.2em;
 	    padding-bottom: 0;
 	    span {
 	      color: $text-light-color;
-	      font-weight: 100;
+	      font-weight: none;
 	    }
   	}
 }

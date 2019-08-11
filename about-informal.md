@@ -54,6 +54,6 @@ Activity / [Viola Player in School Orchestra (2011), ensemble (2014-5)](/activit
 [Collection](/category-collection) / books, dog goods & pics (2014~), plants
 
 
-general writings on [blog](https://placenesss.tumblr.com/)/
+general writings on [blog](https://placenesss.tumblr.com/) >
 
-[map]() /
+[map]() >

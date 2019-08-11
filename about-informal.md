@@ -70,10 +70,10 @@ Hands on /
 
 
 
-[Craft](/category-craft) / knit, furniture, ceramics (recent)
+[Craft](/category-craft) >  knit, furniture, ceramics (recent)
 
 
-[Collection](/category-collection) / books, dog goods & pics (2014~), plants
+[Collection](/category-collection) > books, dog goods & pics (2014~), plants
 
 
-general writings : [blog](https://placenesss.tumblr.com/) >
+general writings : [blog](https://placenesss.tumblr.com/) >>

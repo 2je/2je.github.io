@@ -5,7 +5,7 @@ description: resume.
 ---
 
 
-Project / 
+### Project / 
 
 
 여자 둘이 (다른집에) 함께 살아보았습니다  2 other homes(upcoming)
@@ -22,7 +22,7 @@ Project /
 
 
 
-Travel / 
+### Travel / 
 
 
 대만 (upcoming)
@@ -52,7 +52,7 @@ Travel /
 
 
 
-Activity / 
+### Activity / 
 
 독서모임 기획, 운영  [Leader, Book reading groups : about Cities and Architecture (2017)](
 /activity-readinggroups)
@@ -66,7 +66,7 @@ Activity /
 
 
 
-Hands on / 
+### Hands on / 
 
 
 

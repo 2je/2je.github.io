@@ -10,7 +10,7 @@ description: resume.
 [Reasearch and Writings](/category-writings)
 * pro owner, pro tenant (upcoming)
 * [Lifestyle transition and Kamiyama (2018)]()
-* [Trekking Alps (2017)]()
+* [Trekking Alps (2017)](/trekking-alps)
 * [밤에 뭉치는 지식과 취향의 공동체, 직장인들의 독서모임 (2017)](http://www.dosi.or.kr/%ea%b1%b7%ea%b3%a0%ec%8b%b6%ec%9d%80%eb%8f%84%ec%8b%9c-2017-%ec%97%ac%eb%a6%84%ed%98%b8/)
 * [blog](https://placenesss.tumblr.com/)
 

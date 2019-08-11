@@ -1,7 +1,7 @@
 ---
 title: 2019-08-11-activity-readinggroups.md
 description: 2019-08-11-activity-readinggroups.md
-header:  독서모임 기획, 운영 Leader, Book reading groups : about Cities and Architecture (2017)
+header:  독서모임 기획, 운영 (2017)
 ---
 
 

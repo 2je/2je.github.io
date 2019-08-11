@@ -8,7 +8,6 @@ header : about
 밥별이와 무관하게 좋아서 하는 일에 대한 기록입니다.
 
 
-주제는 아래쪽에 놓일수록 내향적, 추상적으로, 주제 안의 항목은 오래된 순으로 놓여 있습니다. 
 
 
 ### project / 
@@ -23,8 +22,14 @@ header : about
 * 라이프스타일과 카미야마 [Lifestyle and Kamiyama (2018)](/project-kamiyama)
 
 
+* 독서모임 기획, 운영  [Leader, Book reading groups : about Cities and Architecture (2017)](
+/activity-readinggroups)
+
+
 * [Startup Maps in Seoul (2012)](/project-thesis)
 
+
+* 10월의 하늘 기획, 운영 [Volunteer, October Sky (2010-11)](/activity-octobersky)
 
 
 
@@ -57,20 +62,12 @@ header : about
 
 
 
-
 ### activity / 
 
-독일어 배우기 [Deutsch lernen (2016~)](activity-deutsch)
+[Deutsch lernen](activity-deutsch)
 
+[Viola](/activity-viola)
 
-독서모임 기획, 운영  [Leader, Book reading groups : about Cities and Architecture (2017)](
-/activity-readinggroups)
-
-
-10월의 하늘 기획, 운영 [Volunteer, October Sky (2010-11)](/activity-octobersky)
-
-
-[Viola Player](/activity-viola)
 
 
 

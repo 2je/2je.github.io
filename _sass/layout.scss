@@ -131,7 +131,7 @@
 #container {
 	margin:0 auto;
 
-/* h2추가 */
+/* -h2추가 */
 	h2 {
 	    font-size: 1.2em;
 	    padding-bottom: 0;
@@ -140,6 +140,17 @@
 	      font-weight: none;
 	    }
   	}
+/*- Link 추가 */
+	a {
+		color: $text-color;
+		text-decoration: underline; 
+		font-weight: none; 
+		&:hover,
+		&:focus {
+			color: darken($text-color, 5%);
+	}
+}
+
 }
 
 #header {

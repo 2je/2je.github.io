@@ -48,7 +48,7 @@ body {
 /*- Link -*/
 a {
 	color: $text-color;
-	text-decoration: none;
+	text-decoration: underline; // none > underline 으로 수정함
 	font-weight: none; //700 > none으로 수정함
 	&:hover,
 	&:focus {

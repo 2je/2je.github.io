@@ -140,24 +140,13 @@
 	      font-weight: none;
 	    }
   	}
-/*- Link 추가 */
-	a {
-		color: $text-color;
-		text-decoration: underline; 
-		font-weight: none; 
-		&:hover,
-		&:focus {
-			color: darken($text-color, 5%);
-	}
-}
-
 }
 
 #header {
   border-bottom:  1px solid rgba(0,0,0,0.14);
   text-align: center;
   margin-bottom: 3em;
-  height: 5em;
+  height: 4em; /* (변경) 5 > 4 */
   position: relative;
   a {
   	text-decoration: none;
@@ -243,6 +232,16 @@ code {
   @media (min-width: 940px) {
     line-height: 1.8em; 
   }
+  /*- Link 추가 */
+	a {
+		color: $text-color;
+		text-decoration: underline; 
+		font-weight: none; 
+		&:hover,
+		&:focus {
+			color: darken($text-color, 5%);
+		}
+	}
 }
 
 /* Pages */

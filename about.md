@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: About/(in)formal
 description: resume.
 ---
 
 
 /in_formal
-* [blog](https://placenesss.tumblr.com/)
+[blog](https://placenesss.tumblr.com/) |  [map]()
 
 Reasearch and Writings
 * 여자 둘이 (다른집에) 함께 살아보았습니다 (upcoming)
@@ -29,29 +29,3 @@ Craft
 * books (approximately 1,000+)
 * dog goods (2014~) 
 * plants
-
-
-[map]()
-
-
------------------------------
-/formal
-
-
-Skills
-* Korean (+++) , English (++), German (+)
-* SQL, Adobe Illustrator, Photoshop, Sketchup, AutoCAD, all presentation, spreadsheets, word processor tools provided in iOS/MS/Google
-* very good at communication based on data analysis, visualization, and writing
-
-
-Education
-* have degrees in architecture and urban planning from universities in South Korea
-* researched on Startup's location in Seoul for thesis
-* learned practical English and experienced college student life in northern California
-* learned German in Geothe institute in Seoul
-* continuously have repeated to forget but strive to learn Japanese, Spanish and python, HTML, CSS, ArcGIS
-
-
-Work [more]()
-* Product Manager, kakao corp (Current)
-

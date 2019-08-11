@@ -1,8 +1,17 @@
 ---
 title: 2019-06-travel-tokyo.md
 description: 2019-06-travel-tokyo.md
-header: travel/ Tokyo
+header: Travel/ Tokyo
 ---
+
+2019년 6월 초에 일본 도쿄에 처음 다녀왔다. 나흘 중에 삼일 동안 비가 많이 왔지만, 굴하지 않고 걸어다녔다. 
+
+
+반가운 친구들을 만났고, 책으로만 보던 익숙한 건물과 장소들을 직접 만났다. 서울과 비슷한 점이 많았지만, 다른 점에 더 주목하게 되었다. 왜 그런 차이가 생기게 되었는지 궁금해져서 돌아와서는 책과 영화를 찾아보았다. 
+
+[instagram.com/explore/tags/reise_nach_tokyo/](https://www.instagram.com/explore/tags/reise_nach_tokyo/)
+
+
 
 
 여행에서 주로 찾는 것: 건물, 도시, 공원, 오전 미술관, 저녁 공연장, 현지인 일상 구경, 개, 기념품, 서점, 입맛에 맛는 음식 한두개, 아침에 마시는 커피 등인데, 절반은 날씨가 좋아서 두 손 자유롭게 사진찍으며 걸을 수 있어야 하거나 월요일이 아니거나 언어를 알아야 한다. 비도 오고 한자 가득한 메뉴판도 못 읽는 문맹이었지만 점이 가득한 지도와 귀한 시간을 내어 먹여주고 눈과 귀가 되어준 현지인느님들 덕분에 바보 여행자도 어느정도 도시의 스케일과 지리는 확실히 감잡고 돌아왔다. 또올게요! 이번엔 돈코츠라멘도 못먹고 다이칸야마도 못갔으니까요
@@ -15,6 +24,7 @@ _
 
 
 📍National Museum of Modern Art, Tokyo [g](https://goo.gl/maps/rxNb8eGnVZGo55cm7)
+
 
 
 
@@ -32,4 +42,4 @@ related contents
 
 
 
-instagram [#reise_nach_tokyo](https://www.instagram.com/explore/tags/reise_nach_tokyo/)
+

@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About/(in)formal
+title: about/(in)formal
 description: resume.
 ---
 
 
-/in_formal
-
-
-[blog](https://placenesss.tumblr.com/) |  [map]()
-
+# /in_formal
 
 ### Reasearch and Writings >
 
@@ -47,9 +43,17 @@ Startup Maps in Seoul (2012)
 
 
 
+
 ### [Craft >](/category-craft.md)
 knit, furniture, ceramics (recent)
 
 
+
 ### [Collections >](/category-collections.md)
 books, dog goods & pics (2014~), plants
+
+
+
+____________________
+
+[blog](https://placenesss.tumblr.com/) |  [map]()

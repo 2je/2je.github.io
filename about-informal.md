@@ -36,7 +36,7 @@ Activity / 독서모임 기획, 운영  [Leader, Book reading groups : about Cit
 /activity-readinggroups)
 
 
-Thesis / Startup Maps in Seoul (2012)
+Project / [Startup Maps in Seoul (2012)](/project-thesis)
 
 
 Activity / 10월의 하늘 기획, 운영 [Volunteer, October Sky (2010-11)](/activity-octobersky)

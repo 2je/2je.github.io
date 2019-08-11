@@ -4,14 +4,18 @@ title: about/(in)formal
 description: resume.
 ---
 
-
-### Project / 
-
-
-여자 둘이 (다른집에) 함께 살아보았습니다  2 other homes(upcoming)
+밥별이와 무관하게 좋아서 하는 일에 대한 기록입니다.
 
 
-프로 집주인, 프로세입자 pro owner, pro tenant (upcoming)
+
+
+### project / 
+
+
+여자 둘이 (다른집에) 함께 살아보았습니다 [2 other homes](project-2otherhomes)(upcoming)
+
+
+프로 집주인, 프로세입자 [pro owner, pro tenant](project-pros)(upcoming)
 
 
 라이프스타일 변화와 카미야마 [lifestyle transition and Kamiyama (2018)](/project-kamiyama)
@@ -22,7 +26,7 @@ description: resume.
 
 
 
-### Travel / 
+### travel / 
 
 
 대만 (upcoming)
@@ -52,7 +56,10 @@ description: resume.
 
 
 
-### Activity / 
+### activity / 
+
+독일어 배우기 [Deutsch lernen (2016~)](activity-deutsch)
+
 
 독서모임 기획, 운영  [Leader, Book reading groups : about Cities and Architecture (2017)](
 /activity-readinggroups)
@@ -66,14 +73,17 @@ description: resume.
 
 
 
-### Hands on / 
+### hands / 
+
+[Craft](/category-craft) >  knit, furniture, ceramics
+
+
+[Collection](/category-collection) > books, dog goods & pics, plants
 
 
 
-[Craft](/category-craft) >  knit, furniture, ceramics (recent)
+
+## 긴글 /
 
 
-[Collection](/category-collection) > books, dog goods & pics (2014~), plants
-
-
-general writings : [blog](https://placenesss.tumblr.com/) >>
+[blog >>](https://placenesss.tumblr.com/)

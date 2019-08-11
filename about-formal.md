@@ -1,10 +1,8 @@
 ---
 layout: page
 title : about_formal
-description: about_formal
+description: about formal
 ---
-
-/formal
 
 
 Skills

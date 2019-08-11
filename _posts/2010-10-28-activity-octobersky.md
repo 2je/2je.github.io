@@ -26,9 +26,7 @@ header: activity / 10월의 하늘 | Octobersky
 
 관련 링크
 
-[홈페이지]()
-[facebook]()
-[twitter]()
+[홈페이지]() \|  [facebook]() \|  [twitter]()
 
 
 

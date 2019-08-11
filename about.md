@@ -5,18 +5,18 @@ description: resume.
 ---
 
 
-# /in_formal
+in_formal
 
-여자 둘이 (다른집에) 함께 살아보았습니다 (upcoming)
-
-
-프로 집주인, 프로세입자 pro owner, pro tenant (upcoming)
+Project / 여자 둘이 (다른집에) 함께 살아보았습니다  2 other homes(upcoming)
 
 
-[Travelog / Tokyo (2018)]()
+Project / 프로 집주인, 프로세입자 pro owner, pro tenant (upcoming)
 
 
-[라이프스타일 변화와 카미야마 Lifestyle transition and Kamiyama (2018)]()
+[Travelog / Tokyo (2019)]()
+
+
+[Project / 라이프스타일 변화와 카미야마 Lifestyle transition and Kamiyama (2018)]()
 
 
 [Travelog / Chiangmai (2018)]()
@@ -28,29 +28,30 @@ description: resume.
 [Travelog / Trekking Alps and Swiss(2017)](/trekking-alps)
 
 
-[건축과 도시를 주제로 하는 독서모임 기획, 운영  Leader, Book reading groups : about Cities and Architecture (2017)](http://www.dosi.or.kr/%ea%b1%b7%ea%b3%a0%ec%8b%b6%ec%9d%80%eb%8f%84%ec%8b%9c-2017-%ec%97%ac%eb%a6%84%ed%98%b8/)
+[Activity / 독서모임 기획, 운영  Leader, Book reading groups : about Cities and Architecture (2017)](http://www.dosi.or.kr/%ea%b1%b7%ea%b3%a0%ec%8b%b6%ec%9d%80%eb%8f%84%ec%8b%9c-2017-%ec%97%ac%eb%a6%84%ed%98%b8/)
 
 
-[Viola Player in School Orchestra (2011), ensemble (2014-5)]()
+Thesis / Startup Maps in Seoul (2012)
 
 
-Startup Maps in Seoul (2012)
+[Activity / 10월의 하늘 기획, 운영 Volunteer, October Sky (2010-11)]()
 
 
-[10월의 하늘 기획, 운영 Volunteer, October Sky (2010-11)]()
-
+[Activity / Viola Player in School Orchestra (2011), ensemble (2014-5)]()
 
 -------------------------
 
-### [Craft >](/category-craft.md)
+[Craft >](/category-craft.md)
 knit, furniture, ceramics (recent)
 
 
 -------------------------
-### [Collections >](/category-collections.md)
+[Collections >](/category-collections.md)
 books, dog goods & pics (2014~), plants
 
 
 
 -------------------------
-[blog](https://placenesss.tumblr.com/) |  [map]()
+[blog](https://placenesss.tumblr.com/)
+
+[map]()

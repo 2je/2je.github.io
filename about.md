@@ -7,8 +7,6 @@ description: resume.
 
 # /in_formal
 
-### Reasearch and Writings >
-
 여자 둘이 (다른집에) 함께 살아보았습니다 (upcoming)
 
 
@@ -42,18 +40,17 @@ Startup Maps in Seoul (2012)
 [10월의 하늘 기획, 운영 Volunteer, October Sky (2010-11)]()
 
 
-
+-------------------------
 
 ### [Craft >](/category-craft.md)
 knit, furniture, ceramics (recent)
 
 
-
+-------------------------
 ### [Collections >](/category-collections.md)
 books, dog goods & pics (2014~), plants
 
 
 
-____________________
-
+-------------------------
 [blog](https://placenesss.tumblr.com/) |  [map]()

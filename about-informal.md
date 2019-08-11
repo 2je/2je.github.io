@@ -5,7 +5,6 @@ description: resume.
 ---
 
 
-(in)formal
 
 Project / 여자 둘이 (다른집에) 함께 살아보았습니다  2 other homes(upcoming)
 
@@ -42,17 +41,14 @@ Activity / [Viola Player in School Orchestra (2011), ensemble (2014-5)](/activit
 
 -------------------------
 
-[Craft >](/category-craft)
-knit, furniture, ceramics (recent)
 
 
--------------------------
-[Collection >](/category-collection)
-books, dog goods & pics (2014~), plants
+[Craft](/category-craft) / knit, furniture, ceramics (recent)
 
 
+[Collection >](/category-collection) / books, dog goods & pics (2014~), plants
 
--------------------------
-[blog](https://placenesss.tumblr.com/)
 
-[map]()
+general writings on[blog](https://placenesss.tumblr.com/)/
+
+[map]() /

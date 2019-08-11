@@ -83,7 +83,7 @@ description: resume.
 
 
 
-## 긴글 /
+### 긴글 /
 
 
 [blog >>](https://placenesss.tumblr.com/)

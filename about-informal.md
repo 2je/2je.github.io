@@ -1,7 +1,8 @@
 ---
 layout: page
-title: about/(in)formal
-description: resume.
+title: about
+description: about
+header : about
 ---
 
 밥별이와 무관하게 좋아서 하는 일에 대한 기록입니다.

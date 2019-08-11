@@ -29,7 +29,7 @@ Travel / [Chiangmai (2018)](/travel-chiangmai)
 Travel / [Shanghai (2018)](/travel-shanghai)
 
 
-Travel / [Trekking Alps and Swiss(2017)](/trekking-alps)
+Travel / [Trekking Alps and Swiss(2017)](/travel-swiss)
 
 
 Activity / 독서모임 기획, 운영  [Leader, Book reading groups : about Cities and Architecture (2017)](

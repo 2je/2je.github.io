@@ -51,7 +51,7 @@ Activity / [Viola Player in School Orchestra (2011), ensemble (2014-5)](/activit
 [Craft](/category-craft) / knit, furniture, ceramics (recent)
 
 
-[Collection >](/category-collection) / books, dog goods & pics (2014~), plants
+[Collection](/category-collection) / books, dog goods & pics (2014~), plants
 
 
 general writings on [blog](https://placenesss.tumblr.com/)/

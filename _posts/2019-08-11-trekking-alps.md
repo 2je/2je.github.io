@@ -1,7 +1,7 @@
 ---
 title: 2019-08-11-trekking-alps.md
 description: 2019-08-11-trekking-alps.md
-header: 알프스 트레킹 / 스위스 여행기
+header: 스위스 여행기/ 알프스 트레킹
 ---
 
 2017년 8월에 스위스에 다녀왔다. 절반은 알프스 트레킹을, 나머지 반은 도시를 여행했고, 여행기로 적었다.
@@ -19,6 +19,6 @@ header: 알프스 트레킹 / 스위스 여행기
 이마와 무릎, 그리고 안경이 깨졌지만 도시를 마음껏 걷고, 공연을 보고, 에어비앤비 호스트들과 친분을 다지는데는 큰 문제가 없었다. 내 모습이 불편한건 나 뿐이었다. 
 
 
-* 스위스 여행기는 instagram에도 업로드 되어 있습니다. [https://www.instagram.com/reise_nach/](https://www.instagram.com/reise_nach/)
+[https://www.instagram.com/reise_nach/](https://www.instagram.com/reise_nach/)
 
 

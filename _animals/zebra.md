@@ -1,6 +1,7 @@
 ---
 title: zebra title
-headline: zebra headline
+description: zebra-des
+header: zebra headline
 collection: animals
 ---
 

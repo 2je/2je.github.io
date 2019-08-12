@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 소일거리
-description: 소일거리
-header: 소일거리/
+title: edition
+description: edition
+header: edition /
 ---
 
 * [남의 집에 살아보기](project-2otherhomes) (upcoming)

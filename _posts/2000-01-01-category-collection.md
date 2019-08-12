@@ -7,6 +7,6 @@ header: collection /
 
 만들어진 원리에 애착이 가는 유형의 것을 모아서 가까이에 두고 본다. 
 
-* books [>>](/collection-book) 
-* dog goods & pics [>>](/collection-dog) 
+* books [>>](/collection-books) 
+* dog goods & pics [>>](/collection-dogs) 
 * plants [>>](/collection-plants)

@@ -2,7 +2,7 @@
 layout: page
 title: about
 description: about
-header : about
+header : *about
 ---
 
 좋아서 하는 일에 대한 기록입니다.

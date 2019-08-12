@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 방문
-description: 방문
-header: 방문/
+description: 방문기
+header: 방문기/
 ---
 
 

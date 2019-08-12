@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2019-08-12-collection-plant.md
-description: 2019-08-12-collection-plant.md
+title: 2019-08-12-collection-plants.md
+description: 2019-08-12-collection-plants.md
 header: plants/
 ---
 

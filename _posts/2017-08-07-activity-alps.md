@@ -1,7 +1,7 @@
 ---
-title: 2017-08-07-travel-swiss.md
-description: 2017-08-07-travel-swiss.md
-header: travel/ Alps + Swiss
+title: 2017-08-07-activity-alps.md
+description: 2017-08-07-activity-alps.md
+header: 알프스 트레킹 | Alps trekking
 ---
 
 2017년 8월에 스위스에 다녀왔다. 절반은 알프스 트레킹을, 나머지 반은 도시를 여행했고, 여행기로 적었다.

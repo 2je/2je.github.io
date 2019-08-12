@@ -2,7 +2,9 @@
 layout: default
 ---
 <article id="page">
-	
-  {{ content }}
+
+	<!-- page header 추가 -->
+	<h3>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h3>		
+	  {{ content }}
 
 </article>

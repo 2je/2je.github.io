@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 긴글
-description: 긴글
-header: 글/
+title: txt
+description: txt
+header: txt/
 ---
 
 [placenesss.tumblr.com/](https://placenesss.tumblr.com/)

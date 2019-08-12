@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2019-08-12-collection-dog.md
-description: 2019-08-12-collection-dog.md
+title: 2019-08-12-collection-dogs.md
+description: 2019-08-12-collection-dogs.md
 header: dog goods & pics /
 ---
 

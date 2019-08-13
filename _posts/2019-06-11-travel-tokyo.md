@@ -1,7 +1,7 @@
 ---
 title: 2019-06-travel-tokyo.md
 description: 2019-06-travel-tokyo.md
-header: travel/ Tokyo
+header: \\ Tokyo
 ---
 
 2019년 6월 초에 일본 도쿄에 처음 다녀왔다. 나흘 중에 삼일 동안 비가 많이 왔지만, 굴하지 않고 걸어다녔다. 

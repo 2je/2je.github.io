@@ -2,7 +2,7 @@
 layout: page
 title : 2019-08-12-craft-knit.md
 description: 2019-08-12-craft-knit.md
-header: ||| knit
+header: \ knit /
 ---
 
 대바늘, 코바늘로 의류와 생활 소품을 만들어 사용한다. 

@@ -2,7 +2,7 @@
 layout: page
 title: 2019-08-12-collection-plants.md
 description: 2019-08-12-collection-plants.md
-header: plants/
+header: \ plants /
 ---
 
 어릴 때 항상 동식물에 둘러쌓인 집에서 자랐고, 그 영향으로 꾸준히 반려식물을 길렀다.

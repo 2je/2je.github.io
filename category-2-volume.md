@@ -2,16 +2,22 @@
 layout: page
 title: vol.
 description: vol.
-header: vol./
+header: \ vol.
 ---
 
-[만들기 Craft/](/category-craft)
-* knit
-* furniture
-* ceramics
+[craft/](/category-craft)
 
 
-[모으기 Collection](/category-collection)
-* books
-* dog goods & pics
-* plants
+손으로 만들기
+
+
+knit, furniture, ceramics
+
+
+
+[collection](/category-collection)
+
+
+모으기
+
+books, dog goods & pics, plants

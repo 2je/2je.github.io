@@ -27,7 +27,7 @@ Work
 
 * Product manager, kakao corp, Pangyo (Current)
 * Business development Manager and Architectural Engineer, DHI, Seoul
-* Inter, Prada Korea, Seoul
+* Internship, Prada Korea, Seoul
 
 
 [linkedIn]()

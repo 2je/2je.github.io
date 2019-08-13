@@ -15,3 +15,10 @@ header: \\ 장강명 작가 덕질
 
 
 장강명 작가의 책을 관심있게 읽게 된건 작가님이 신도림으로 이사가기 전까지 출간된 작품들의 배경이 내가 서울에서 살게된 이래 가장 많은 시간을 보내고 있는 지역이기 때문이다. 실제 지명으로 언급된 곳 뿐만 아니라 가상의 지역으로 차용된 곳도 이동네에서 알만한 사람은 쉽게 좌표를 떠올릴 수 있는 공간이다. 게다가 같은학교 옆 과 선배님. 처음 싸인 받으러 가서 저도 건설회사를 다니다가 전업을.... 이라고 조금이라도 공통점을 어필하려고 노력했다. 
+
+
+
+/ related
+
+
+1회 책번개, KBS (2017.2.12) [>>](http://vod.kbs.co.kr/m/index.html?source=episode&sname=vod&stype=vod&program_code=T2016-0739&program_id=PS-2016202657-01-000&section_code=05&broadcast_complete_yn=Y&local_station_code=00)

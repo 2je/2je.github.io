@@ -1,7 +1,8 @@
 ---
+layout: page
 title: 2017-12-31-activity-readinggroups.md
 description: 2017-12-31-activity-readinggroups.md
-header:  activity / 독서모임 기획, 운영 | book reading groups
+header: \\ 독서모임 | book reading groups
 ---
 
 2017년 1년 동안 도시, 건축을 주제로 독서모임의 콘텐츠를 기획하고 운영했다.

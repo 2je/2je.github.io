@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 2019-06-travel-tokyo.md
 description: 2019-06-travel-tokyo.md
 header: \\ Tokyo

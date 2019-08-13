@@ -1,6 +1,6 @@
 ---
 layout: page
-title : 2016-08-12-travel-berlin.md
+title: 2016-08-12-travel-berlin.md
 description: 2016-08-12-travel-berlin.md
 header: \ Berlin
 ----

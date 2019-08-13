@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 2017-08-07-activity-alps.md
 description: 2017-08-07-activity-alps.md
 header: \\ 알프스 트레킹   |   Alps trekking

@@ -5,7 +5,7 @@ description: vol.
 header: \ vol.
 ---
 
-craft [>>](/category-craft)
+### \\ [craft](/category-craft)
 
 
 손으로 만들기
@@ -13,7 +13,7 @@ knit, furniture, ceramics
 
 
 
-collection [>>](/category-collection)
+### \\ [collection](/category-collection)
 
 
 모으기

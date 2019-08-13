@@ -2,7 +2,7 @@
 layout: page
 title: edition
 description: edition
-header: edition /
+header: \ edition
 ---
 
 * [남의 집에 살아보기](project-2otherhomes) (upcoming)

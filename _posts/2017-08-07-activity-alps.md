@@ -8,7 +8,7 @@ header: \\ 알프스 트레킹   |   Alps trekking
 2017년 8월에 스위스에 다녀왔다. 절반은 알프스 트레킹을, 나머지 반은 도시를 여행했고, 여행기로 적었다.
 
 
-[https://www.instagram.com/reise_nach/](https://www.instagram.com/reise_nach/)
+[@reise_nach](https://www.instagram.com/reise_nach/)
 
 
 
@@ -25,4 +25,10 @@ header: \\ 알프스 트레킹   |   Alps trekking
 
 
 
+________________
 
+
+### more
+
+
+* [물과 공기가 깨끗하다는 것의 의미](/travel-post_1)

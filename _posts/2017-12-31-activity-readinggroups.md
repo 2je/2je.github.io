@@ -15,12 +15,12 @@ header: \\ 독서모임 | book reading groups
 
 
 
-\| 모임 기록 
+/ 모임 기록 
 
 [https://cbcbakak.tumblr.com](https://cbcbakak.tumblr.com)
 
 
-\| 관련 기고 
+/ 관련 기고 
 
 밤에 뭉치는 지식과 취향의 공동체, 직장인들의 독서모임,
  『 걷고싶은도시 2017 여름호 : 호모 나이트쿠스와 도시일기 』, 걷고싶은 도시만들기 시민연대 (2017.06) [>>](

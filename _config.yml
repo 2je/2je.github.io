@@ -43,7 +43,7 @@ collections:
   edition:
     title: edition
     output: true
-  vol:
-    title: vol
+  reise:
+    title: reise
     output: true
    

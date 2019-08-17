@@ -40,5 +40,10 @@ reverse: false
 
 #collections
 collections:
-  animals:
+  edition:
+    title: edition
     output: true
+  vol:
+    title: vol
+    output: true
+   

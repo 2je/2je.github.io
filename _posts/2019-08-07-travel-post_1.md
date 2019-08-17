@@ -1,6 +1,7 @@
 ---
 title: travel_post_1
 description: travel_post_1_description
+collection: reise
 header: 물과 공기가 깨끗하다는 것의 의미
 ---
 ![Test](/img/img-test.png "Test")

@@ -3,6 +3,7 @@ layout: page
 title: 2016-08-12-travel-berlin.md
 description: 2016-08-12-travel-berlin.md
 header: \ Berlin
+collection: reise
 ---
 
 2013년에 유럽에 처음 갈 때 에어프랑스에서 캐리어를 보내주지 않아서 빈손으로 처음 가게된 황망한 첫걸음마저도 너무 좋아서 3년후 친구가 간다길래 또 가서 더 오래 머무르다 왔다.  생일날 파가 들어간 신라면에 치즈를 얹어 먹는 전통을 만들게 된 곳이기도 하다. 

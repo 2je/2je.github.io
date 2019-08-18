@@ -3,6 +3,7 @@ layout: page
 title: 2015-12-25-travel-provence.md
 description: 2015-12-25-travel-provence.md
 header: \\ Provence
+collection: reise
 ---
 
 정수복, 김화영, 성석제의 글을 읽고 가서 화가들이 말년에 모여 살던 비옥한 작은 도시들에 홀짝홀짝 머물렀다. 

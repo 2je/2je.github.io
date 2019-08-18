@@ -33,4 +33,17 @@ proudly enjoy being a sincere and arduous Google Map Local Guide [Level 7](https
 
 
 
+<!-- Posts -->
+<ul id="posts">
 
+	{% for post in paginator.posts %}
+
+	  <li class="post">
+	  	<h3><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h3>
+      		
+		 
+	  </li>
+
+    {% endfor %}
+
+</ul>

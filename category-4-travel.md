@@ -34,7 +34,6 @@ proudly enjoy being a sincere and arduous Google Map Local Guide [Level 7](https
 
 
 <ul id="posts">
-	hello hello 
 	
 	{% for post in paginator.posts %}
 

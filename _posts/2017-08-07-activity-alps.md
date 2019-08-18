@@ -33,7 +33,8 @@ ________________
 
 * [물과 공기가 깨끗하다는 것의 의미](/travel-post_1)
 
-
+<section class="post-meta">
+<div class="post-meta">
 {% for reise in site.reise %}
    <h2>
     <a href="{{ reise.url }}">
@@ -42,3 +43,5 @@ ________________
   </h2>
   <p>{{ reise.content | markdownify }}</p>
 {% endfor %}
+</div>
+</section>
